@@ -1,0 +1,64 @@
+C
+C++
+Java
+Python
+JavaScript
+TypeScript
+HTML
+CSS
+React
+Angular
+Vue
+Node.js
+Express
+Django
+Flask
+FastAPI
+Spring Boot
+SQL
+MySQL
+PostgreSQL
+MongoDB
+SQLite
+REST API
+GraphQL
+Git
+GitHub
+GitLab
+Linux
+Docker
+Kubernetes
+AWS
+Azure
+GCP
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Machine Learning
+Deep Learning
+NLP
+Data Structures
+Algorithms
+OOP
+Microservices
+CI/CD
+Jenkins
+Agile
+Scrum
+React
+Pandas
+NumPy
+YOLO
+YOLOv8
+Tkinter
+Postman
+Google Colab
+Cisco Packet Tracer
+Computer Vision
+OpenCV
+PyGame
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AI Interview</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>AI Interview</h1>
+
+    <div class="question-box">
+      <h3 id="question">
+        Write a Python function to reverse a string.
+      </h3>
+    </div>
+
+    <div class="controls">
+      <button id="startBtn">🎤 Start Recording</button>
+      <button id="stopBtn" disabled>⏹ Stop Recording</button>
+      <button id="submitBtn" disabled>📤 Submit Answer</button>
+    </div>
+
+    <p id="status"></p>
+
+    <div id="result" class="result hidden">
+      <h3>Score: <span id="score"></span>/10</h3>
+      <p><b>Transcript:</b> <span id="transcript"></span></p>
+      <p><b>Feedback:</b> <span id="feedback"></span></p>
+      <pre id="improved"></pre>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
