@@ -14,3 +14,17 @@ python-jose
 passlib[bcrypt]
 pdfplumber
 groq
+python-dotenv
+bcrypt
+email-validator
+lxml
+joblib
+regex
+scipy
+six
+tqdm
+click
+typing-extensions
+annotated-types
+anyio
+starlette
