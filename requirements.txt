@@ -9,3 +9,7 @@ nltk
 PyPDF2
 python-docx
 sqlalchemy
+spacy
+python-jose
+passlib[bcrypt]
+pdfplumber
