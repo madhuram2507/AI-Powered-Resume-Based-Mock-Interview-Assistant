@@ -13,3 +13,4 @@ spacy
 python-jose
 passlib[bcrypt]
 pdfplumber
+groq
